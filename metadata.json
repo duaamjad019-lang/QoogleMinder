@@ -1,0 +1,6 @@
+{
+  "name": "JobMatch Pro",
+  "description": "Elite AI Career Architect, ATS Resume Strategist, and Natural Language Humanization Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
